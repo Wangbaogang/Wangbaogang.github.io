@@ -12,6 +12,7 @@ script:
  - git config user.name "wangbaogang"
  - git config user.email "1371069685@qq.com"
  - sed -i "s/gh_token/${GH_TOKEN}/g" _config.yml
+ - echo GH_TOKEN
  - hexo deploy
 
 
