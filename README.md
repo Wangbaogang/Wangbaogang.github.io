@@ -1,3 +1,3 @@
 # BLOG
 
-[have a look](https://wangbaogang.github.io)
+[Have a look](https://wangbaogang.github.io)
