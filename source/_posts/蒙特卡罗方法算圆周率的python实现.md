@@ -5,6 +5,8 @@ tags:
   -  概率统计
 ---
 
+蒙特卡罗方法算圆周率的python实现
+
 ``` python
 
 #coding=utf-8
