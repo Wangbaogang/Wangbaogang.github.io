@@ -42,4 +42,3 @@ img.save('image.jpg')
 
 ![原图](/images/python-image-source.jpg)
 ![手绘效果图](/images/python-image-gradient.jpg)
-
