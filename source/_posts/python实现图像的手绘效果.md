@@ -1,7 +1,8 @@
 ---
 title: python实现图像的手绘效果
 date: 2019-07-08 19:55:45
-tags: python
+tags: 
+    - python
 ---
 
 python实现图像的手绘效果

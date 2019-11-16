@@ -1,9 +1,9 @@
 ---
-title: Tree Traversals Again代码实现
+title: 数据结构题：Tree Traversals Again
 date: 2019-07-10 18:39:24
 tags: 
-  - 算法
-  - c/cpp
+    - 算法
+    - c/cpp
 ---
 
 An inorder binary tree traversal can be implemented in a non-recursive way with a stack. For example, suppose that when a 6-node binary tree (with the keys numbered from 1 to 6) is traversed, the stack operations are: push(1); push(2); push(3); pop(); pop(); push(4); pop(); pop(); push(5); push(6); pop(); pop(). Then a unique binary tree (shown in Figure 1) can be generated from this sequence of operations. Your task is to give the postorder traversal sequence of this tree.
